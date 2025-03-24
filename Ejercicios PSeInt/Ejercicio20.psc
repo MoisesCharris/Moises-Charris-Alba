@@ -4,9 +4,9 @@ Algoritmo Primos
     Definir es_primo Como Logico;
 	
     Repetir
-		Escribir "Ingrese la cantidad de números primos a mostrar:";
-		Leer cant_a_mostrar;
-	Hasta que cant_a_mostrar > 0;
+	Escribir "Ingrese la cantidad de nÃºmeros primos a mostrar:";
+	Leer cant_a_mostrar;
+    Hasta que cant_a_mostrar > 0;
     
     Escribir "1: 2";
     cant_mostrados <- 1;
@@ -22,9 +22,9 @@ Algoritmo Primos
         FinPara
 		
         Si es_primo Entonces
-            cant_mostrados <- cant_mostrados + 1;
-            Escribir cant_mostrados, ": ",num;
+        cant_mostrados <- cant_mostrados + 1;
+        Escribir cant_mostrados, ": ",num;
         FinSi
-		num <- num + 2;
+	num <- num + 2;
     FinMientras
 FinAlgoritmo
