@@ -43,13 +43,13 @@ Algoritmo Menu
                 Escribir " > Sushi";
 			6:
 				Escribir "Italia:";
-				Escribir " > Pizza";
+                Escribir " > Pizza";
                 Escribir " > Pasta";
                 Escribir " > Risotto";
 			7: 
-				Escribir "Gracias ";
-            De otro modo:
-                Escribir "Opción no válida";
+				Escribir "Gracias";
+			De otro modo:
+				Escribir "Opción no válida";
         FinSegun
         Escribir "Presione enter para continuar";
         Esperar Tecla;
