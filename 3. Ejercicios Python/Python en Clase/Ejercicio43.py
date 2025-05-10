@@ -1,0 +1,5 @@
+presion = int(input ("ingrese la presion"))
+volumen = int(input ("ingrese el volumen"))
+temperatura = int(input ("ingrese la temperatura"))
+masa = (presion* volumen)/(0.37*(temperatura + 460))
+print (masa)
