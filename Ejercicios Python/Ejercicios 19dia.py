@@ -1,4 +1,4 @@
-
+# Ejercicios de Python del 19 de mayo en clase
 numero = int(input("ingrese un numero "))
 print (numero ** (1/4))
 
