@@ -10,8 +10,5 @@
       #Devuelva una lista con aquellos que son múltiplos de k. 
 
 
-#2. Escribir una función poker que reciba cinco cartas de la baraja  e informe si esas cartas forman o no un poker 
-   #(es decir que hay 4 cartas con el mismo número). 
-
 
 

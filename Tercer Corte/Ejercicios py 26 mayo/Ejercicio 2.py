@@ -3,7 +3,7 @@ dividendo, divisor = int(input("Ingrese el dividendo ")), int(input("Ingrese el 
 resultado = dividendo / divisor
 
 if resultado == 0:
-    print("Error")
+    print ("Error")
 else:
-    print(resultado)    
+    print (resultado)    
     
