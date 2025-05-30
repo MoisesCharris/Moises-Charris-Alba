@@ -1,5 +1,3 @@
-
-
 #5. Escribir una función que reciba dos vectores y devuelva si son paralelos o no. 
 
 def son_paralelos(v1, v2):

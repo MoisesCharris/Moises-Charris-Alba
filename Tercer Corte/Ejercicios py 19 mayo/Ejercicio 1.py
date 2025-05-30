@@ -1,4 +1,5 @@
-#1. Proponer una representación con tuplas para las cartas de una baraja. 
+#1. Proponer una representación con tuplas para las cartas de una baraja.
+
 Palo_Forma = ('♠️', '♥️', '♣️', '♦️') 
 Numeracion = ('A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K')
 
